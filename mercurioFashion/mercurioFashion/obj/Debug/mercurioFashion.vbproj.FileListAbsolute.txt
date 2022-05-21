@@ -1,0 +1,25 @@
+C:\Users\Usuario\Documents\Visual Studio 2019\MERCURIO FASHION\mercurioFashion\mercurioFashion\bin\Debug\mercurioFashion.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2019\MERCURIO FASHION\mercurioFashion\mercurioFashion\bin\Debug\mercurioFashion.exe
+C:\Users\Usuario\Documents\Visual Studio 2019\MERCURIO FASHION\mercurioFashion\mercurioFashion\bin\Debug\mercurioFashion.pdb
+C:\Users\Usuario\Documents\Visual Studio 2019\MERCURIO FASHION\mercurioFashion\mercurioFashion\bin\Debug\mercurioFashion.xml
+C:\Users\Usuario\Documents\Visual Studio 2019\MERCURIO FASHION\mercurioFashion\mercurioFashion\obj\Debug\mercurioFashion.vbprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2019\MERCURIO FASHION\mercurioFashion\mercurioFashion\obj\Debug\mercurioFashion.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2019\MERCURIO FASHION\mercurioFashion\mercurioFashion\obj\Debug\mercurioFashion.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Visual Studio 2019\MERCURIO FASHION\mercurioFashion\mercurioFashion\obj\Debug\mercurioFashion.exe
+C:\Users\Usuario\Documents\Visual Studio 2019\MERCURIO FASHION\mercurioFashion\mercurioFashion\obj\Debug\mercurioFashion.xml
+C:\Users\Usuario\Documents\Visual Studio 2019\MERCURIO FASHION\mercurioFashion\mercurioFashion\obj\Debug\mercurioFashion.pdb
+C:\Users\Usuario\Documents\Visual Studio 2019\MERCURIO FASHION\mercurioFashion\mercurioFashion\obj\Debug\mercurioFashion.frmLogin.resources
+C:\Users\Usuario\Documents\Visual Studio 2019\MERCURIO FASHION\mercurioFashion\mercurioFashion\obj\Debug\mercurioFashion.frmPrincipal.resources
+C:\Users\Higor\Desktop\MERCURIO FASHION\mercurioFashion\mercurioFashion\bin\Debug\mercurioFashion.exe.config
+C:\Users\Higor\Desktop\MERCURIO FASHION\mercurioFashion\mercurioFashion\bin\Debug\mercurioFashion.exe
+C:\Users\Higor\Desktop\MERCURIO FASHION\mercurioFashion\mercurioFashion\bin\Debug\mercurioFashion.pdb
+C:\Users\Higor\Desktop\MERCURIO FASHION\mercurioFashion\mercurioFashion\bin\Debug\mercurioFashion.xml
+C:\Users\Higor\Desktop\MERCURIO FASHION\mercurioFashion\mercurioFashion\obj\Debug\mercurioFashion.vbprojAssemblyReference.cache
+C:\Users\Higor\Desktop\MERCURIO FASHION\mercurioFashion\mercurioFashion\obj\Debug\mercurioFashion.frmLogin.resources
+C:\Users\Higor\Desktop\MERCURIO FASHION\mercurioFashion\mercurioFashion\obj\Debug\mercurioFashion.frmPrincipal.resources
+C:\Users\Higor\Desktop\MERCURIO FASHION\mercurioFashion\mercurioFashion\obj\Debug\mercurioFashion.Resources.resources
+C:\Users\Higor\Desktop\MERCURIO FASHION\mercurioFashion\mercurioFashion\obj\Debug\mercurioFashion.vbproj.GenerateResource.cache
+C:\Users\Higor\Desktop\MERCURIO FASHION\mercurioFashion\mercurioFashion\obj\Debug\mercurioFashion.vbproj.CoreCompileInputs.cache
+C:\Users\Higor\Desktop\MERCURIO FASHION\mercurioFashion\mercurioFashion\obj\Debug\mercurioFashion.exe
+C:\Users\Higor\Desktop\MERCURIO FASHION\mercurioFashion\mercurioFashion\obj\Debug\mercurioFashion.xml
+C:\Users\Higor\Desktop\MERCURIO FASHION\mercurioFashion\mercurioFashion\obj\Debug\mercurioFashion.pdb
